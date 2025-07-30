@@ -1,0 +1,27 @@
+{
+  "name": "a-tashiro7127",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lint": "textlint . && markdownlint **/*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-tashiro7127/a-tashiro7127.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-tashiro7127/a-tashiro7127/issues"
+  },
+  "homepage": "https://github.com/a-tashiro7127/a-tashiro7127#readme",
+  "description": "",
+  "devDependencies": {
+    "markdownlint-cli": "^0.45.0",
+    "textlint": "^15.2.1"
+  }
+}
