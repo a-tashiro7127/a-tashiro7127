@@ -3,7 +3,7 @@
 # 🧑‍💻 Akito Tashiro — 田代 暉人
 
 ### AWS / DevSecOps / SRE / Infrastructure Engineer  
-**AWS 8冠 / Terraform / コスト最適化 / アラート自動化 / インフラ改善**
+**AWS 7冠 / Terraform / コスト最適化 / アラート自動化 / インフラ改善**
 
 <br>
 
@@ -16,9 +16,6 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&style=for-the-badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
   </a>
 </p>
 
@@ -162,6 +159,6 @@
 
 # 📫 **Contact**
 - **GitHub**：https://github.com/a-tashiro7127  
-- **Email**（必要であれば追記します）
+- **Email**：a.tashiro3939@gmail.com
 
 ---
