@@ -1,6 +1,6 @@
 <div align="center" style="margin-top: 40px; margin-bottom: 20px;">
 
-  <img src="assets/profile.jpeg"
+  <img src="/assets/profile.jpeg"
        alt="profile" 
        width="160" 
        style="border-radius: 50%; border: 3px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);" />
