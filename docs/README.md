@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="assets/profile.jpeg" alt="profile" width="180" style="border-radius: 50%; border: 2px solid #ccc;" />
+</div>
+
+<br>
+<div align="center">
 
 # 🧑‍💻 Akito Tashiro — 田代 暉人
 
