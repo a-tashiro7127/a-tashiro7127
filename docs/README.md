@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 🧑‍💻 Akito Tashiro — 田代 暉人
+<!-- # 🧑‍💻 Akito Tashiro — 田代 暉人 -->
 
 ### AWS / DevSecOps / SRE / Infrastructure Engineer  
 **AWS 7冠 / Terraform / コスト最適化 / アラート自動化 / インフラ改善**
