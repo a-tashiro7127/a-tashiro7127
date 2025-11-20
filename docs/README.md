@@ -1,29 +1,27 @@
-<div align="center">
-  <img src="assets/profile.jpeg" alt="profile" width="180" style="border-radius: 50%; border: 2px solid #ccc;" />
-</div>
+<div align="center" style="margin-top: 40px; margin-bottom: 20px;">
 
-<br>
+  <img src="assets/profile.jpeg" 
+       alt="profile" 
+       width="160" 
+       style="border-radius: 50%; border: 3px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);" />
 
-<div align="center">
+  <h1 style="margin-top: 20px; font-size: 32px; font-weight: 700;">Akito Tashiro — 田代 暉人</h1>
 
-<!-- # 🧑‍💻 Akito Tashiro — 田代 暉人 -->
+  <p style="font-size: 18px; color: #666; margin-top: -10px;">
+    AWS / DevSecOps / SRE / Infrastructure Engineer
+  </p>
 
-### AWS / DevSecOps / SRE / Infrastructure Engineer  
-**AWS 7冠 / Terraform / コスト最適化 / アラート自動化 / インフラ改善**
+  <p style="font-size: 16px; margin-top: -5px; color: #777;">
+    AWS 7冠 / Terraform / コスト最適化 / アラート自動化 / インフラ改善
+  </p>
 
-<br>
-
-<p>
-  <a href="https://github.com/a-tashiro7127">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
-  </a>
-  <a href="#">
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/a-tashiro7127">
+      <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
+    </a>
     <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="#">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&style=for-the-badge" />
-  </a>
-</p>
+  </div>
 
 </div>
 
