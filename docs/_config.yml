@@ -1,15 +1,10 @@
-# remote_theme: pages-themes/cayman@v0.2.0
-# title: #{任意のタイトル}
-# description: #{任意の説明文}
-
-title: "Akito Tashiro"
-description: "AWS / DevSecOps / SRE / Infrastructure Engineer"
+title: ""
+description: ""
+logo: ""
 show_downloads: false
-logo: assets/profile.png   # ロゴ画像を置く場合（なければ削除可）
 
 theme: jekyll-theme-minimal
 
-# URL が勝手にタイトル下に出ないようにする
 github:
   is_project_page: false
   is_user_page: false
