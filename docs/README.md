@@ -1,18 +1,28 @@
 <div align="center">
 
-# 🧑‍💻 **Akito Tashiro — 田代 暉人**  
+# 🧑‍💻 Akito Tashiro — 田代 暉人
+
 ### AWS / DevSecOps / SRE / Infrastructure Engineer  
 **AWS 8冠 / Terraform / コスト最適化 / アラート自動化 / インフラ改善**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/a-tashiro7127)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)]()
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)]()
+<p>
+  <a href="https://github.com/a-tashiro7127">
+    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
 
 </div>
-
 ---
 
 # 📌 **Summary（概要）**
@@ -20,7 +30,7 @@
 🔥 **AWS インフラ運用・改善・自動化が得意なエンジニア**。  
 特に Terraform を用いた IaC・コスト最適化・アラート自動化・AWS セキュリティ周りが強みです。
 
-- AWS 認定 **8冠**  
+- AWS 認定 **7冠**  
 - Terraform による **設計・IaC 化・コードレビュー**  
 - GuardDuty / Inspector / Prisma Cloud × Jira の自動化多数  
 - New Relic ダッシュボード/監視設定の IaC 化  
@@ -133,9 +143,9 @@
 
 ---
 
-# 🧾 **資格（Certifications）**
+# 🧾 **Certifications（資格）**
 
-🎖 **AWS 認定 8冠**
+🎖 **AWS 認定 7冠**
 - SAA / DVA / SOA  
 - SAP / DOP  
 - Security / Machine Learning  
