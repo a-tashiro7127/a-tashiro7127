@@ -1,9 +1,6 @@
 <div align="center" style="margin-top: 40px; margin-bottom: 20px;">
 
-  <img src="/assets/profile.jpeg"
-       alt="profile" 
-       width="160" 
-       style="border-radius: 50%; border: 3px solid #ddd; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);" />
+  <img src="https://a-tashiro7127.github.io/a-tashiro7127/assets/profile.jpeg" width="160" />
 
   <h1 style="margin-top: 20px; font-size: 32px; font-weight: 700;">Akito Tashiro — 田代 暉人</h1>
 
